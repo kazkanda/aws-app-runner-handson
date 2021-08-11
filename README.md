@@ -3,6 +3,6 @@
 
 ## [事前準備](preparation.md)
 
-## [シナリオ](handson.md)
+## [ハンズオン](handson.md)
 
 ## [後片付け](cleaning.md)
