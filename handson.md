@@ -26,6 +26,7 @@
  ![](./img/app_runner_source.png)
 
  - この画面が表示された場合は、**Authorize AWS Connector for GitHub** をクリックします
+ - **Create a new connection** の画面になった場合は[こちら](./handson.md#リポジトリの選択)の手順に進みます 
 
  ![](./img/github_aws_connector_authorize.png)
 
@@ -42,6 +43,7 @@
 
  ![](./img/github_install_aws_connector_all.png)
 
+#### リポジトリの選択
  - 接続名に任意の名前を入力します
  - GitHubアプリケーションに、自分のアカウントが自動選択されます
 
