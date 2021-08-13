@@ -98,6 +98,9 @@
   ![](./img/pull_request.png)
 
   - `マージ先` を `自分のリポジトリ` の `main` に変更します
+
+  ![](./img/github_pull_request_choose_base.png)
+
   - **Create pull request** をクリックします
 
   ![](./img/pull_request2.png)
@@ -168,8 +171,8 @@ App Runnerはデプロイするだけでオートスケールするように構�
 ### 3-3. 負荷テスト
  - **Host** に 1. で作成したApp Runnerのデフォルトドメインをコピペします  
  ※【重要】 最後の **/** は入れないでください
- 
- ![](./img/locust_settings.png)
+
+ ![](./img/locust_specify_url.png)
 
  - **Start swarming** をクリックするとアプリケーションに対して負荷テストを実行します
  - **Charts** の画面を見ながらリクエストの状況を見てみましょう
