@@ -19,6 +19,13 @@
 
 ![](./img/app_runner_github_delete_confirm.png)
 
+## 3. ForkしたGitHubリポジトリの削除
+ - ハンズオンでForkした以下のGitHubリポジトリを削除します
+   - simple-express-app
+   - locust_sample
+  1. 削除対象のリポジトリの **Settings** タブをクリックする
+  1. 画面の一番下にある **Delete this repository** ボタンをクリックする
+  1. **Are you absolutely sure?** というタイトルのポップアップが表示されるので、削除対象のリポジトリを入力した上で **I understand the consequences, delete this repository** ボタンをクリックする
 
 ```
 以上で環境の削除は完了です
