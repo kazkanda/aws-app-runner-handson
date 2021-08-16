@@ -168,7 +168,7 @@ App Runnerはデプロイするだけでオートスケールするように構�
 
  ![](./img/app_runner_custom_autoscaling.png)
 
- - 先ほど作成したコンフィグを選択し、同時実行数が変更されたことを核にして保存します
+ - 先程作成したコンフィグを選択し、同時実行数が変更されたことを確認して保存します
 
  ![](./img/app_runner_autoscaling_settings_after.png)
 
@@ -178,7 +178,7 @@ App Runnerはデプロイするだけでオートスケールするように構�
 
 ### 3-2. 負荷テスト用アプリケーション（Locust）のデプロイ
  - [こちらのリポジトリ](https://github.com/nidcode/locust_sample)を自分のアカウントにフォークします
- - App Runnerで先ほどと同様にサービスを作成します
+ - App Runnerで先程と同様にサービスを作成します
  - リポジトリ名 `locust_sample`
  - **構築の設定** では、`設定ファイルを使用` を選択します
 
